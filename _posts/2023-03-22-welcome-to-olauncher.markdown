@@ -2,17 +2,14 @@
 layout: post
 title: dsahfhr
 ---
-Introducing OLauncher, the old Minecraft launcher, but updated.
-Current features include:
-* Microsoft Authentication
-* Bundled Java runtime
-* Update checking
+AAAAAAAAAAGJFLHJLFKJDNLKRHFBNKFJDHBKJRHLTHNJ GFHBFHJBHJFB
+kljhdklfshlkdhjblkdjlbkKLSHNFLKJDHLBgfkhnkjlagjKL
 
-Planned features include:
-* Skin, cape and Optifine cape management
-* Support demo users
+amogus suss sussy su sus amogus sussy suspicious amorbus sus
+
+MR BEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAST
 
 We'll keep you posted.<br>
-\- The OLauncher Team
+\- the driplord
 
-P.S. Check out [the discord](https://discord.gg/zqYZknvYuZ)!
+P.S. ur mom
