@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to OLauncher!
+title: dsahfhr
 ---
 Introducing OLauncher, the old Minecraft launcher, but updated.
 Current features include:
