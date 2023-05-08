@@ -24,6 +24,8 @@ Enjoy!<br>
 
 **GET THE RELEASE:**<br>
 
+\* [Full Changelog](https://www.minecraft.net/en-us/article/buzzy-bees-out-now-in-java)<br>
+
 Cross-platform server jar:<br>
 \* [Minecraft server jar](https://launcher.mojang.com/v1/objects/e9f105b3c5c7e85c7b445249a93362a22f62442d/server.jar)<br>
 
