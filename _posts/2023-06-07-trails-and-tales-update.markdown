@@ -8,7 +8,7 @@ What, is there something special happening today? Hold on, let me grab my calend
 Oh, it's time for Trails & Tales! How could I forget? Time to equip your new brush and ride your camel off to new adventures! <br>
 
 **Changelog:**<br>
-\* All features and changes from the "Update 1.20" experimental pack are now part of the game
+\* All features and changes from the "Update 1.20" experimental pack are now part of the game<br>
 \* Added Archaeology<br>
 \* Added Sniffer mob, Torchflowers and Pitcher Plants<br>
 \* Added Camel mob<br>
